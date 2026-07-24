@@ -1,0 +1,56 @@
+{
+  "brand": "Safari",
+  "product_count": 10,
+  "review_count": 78,
+  "sentiment_score": 6.25,
+  "sentiment_label": "mixed",
+  "sentiment_summary": "Safari luggage receives praise for its attractive design, smooth wheels, and good value, but a notable share of reviewers highlight durability concerns such as thin plastic shells, weak joints, lock failures, and a single severe case of breakage with poor customer service. The mix of high‑star praise and recurring mid‑to‑low‑star complaints results in an overall mixed sentiment.",
+  "praise_themes": [
+    "Smooth rolling wheels",
+    "Scratch‑proof exterior",
+    "Ideal cabin‑size dimensions",
+    "Good value for price",
+    "Sturdy, durable construction"
+  ],
+  "complaint_themes": [
+    "Weak telescopic handle",
+    "Lock mechanism problems",
+    "Thin plastic shell durability",
+    "Poor after‑sales service",
+    "Limited interior utility space"
+  ],
+  "aspect_scores": {
+    "wheels": {
+      "score": 8.2,
+      "summary": "Multiple reviewers highlight smooth, buttery wheels that glide effortlessly (e.g., “Wheels are buttery smooth”, “wheels glide smoothly”, “Sturdy wheels”), with no reported wheel failures."
+    },
+    "handle": {
+      "score": 6.5,
+      "summary": "While many praise the handle as comfortable and easy to use (e.g., “drag handle is great”, “handle is comfortable”), a few note poor quality (“Telescopic Handle is of worst quality”, “Handle quality slightly a let down”)."
+    },
+    "zipper": {
+      "score": 7.5,
+      "summary": "Zipper quality is repeatedly described as very good or well‑made (e.g., “zipper quality is very well”, “internal zip adds great utility”), with only cautionary remarks but no actual failures."
+    },
+    "material": {
+      "score": 6.0,
+      "summary": "Reviews are split: many commend the shell as scratch‑proof and sturdy, yet several call the plastic thin and suggest durability concerns (e.g., “thin material”, “plastic fiber shield is very thin”)."
+    },
+    "size": {
+      "score": 7.5,
+      "summary": "The majority find the size ideal for short trips and cabin carry‑on (“perfect middle size”, “size is perfect”), though a few mention slightly less utility space."
+    },
+    "durability": {
+      "score": 6.5,
+      "summary": "Positive durability feedback appears (“nice durability”, “sturdy and well‑built”), countered by isolated reports of breakage within months and weak joint areas."
+    }
+  },
+  "value_for_money": {
+    "score": 8.0,
+    "price_band": "budget",
+    "verdict": "At the ₹2,889 budget price, customers repeatedly describe the luggage as a great deal, noting premium‑like finish, smooth wheels, and solid build. Only a handful of negative experiences (breakage, service issues) are reported, so overall the quality justifies the price.",
+    "avg_price": 2889.0
+  },
+  "insights": [],
+  "errors": []
+}

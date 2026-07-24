@@ -1,0 +1,56 @@
+{
+  "brand": "Aristocrat",
+  "product_count": 10,
+  "review_count": 72,
+  "sentiment_score": 6.75,
+  "sentiment_label": "mixed",
+  "sentiment_summary": "Aristocrat buyers are largely satisfied, highlighting good quality, spaciousness, and value for money. Positive remarks dominate the 5‑star reviews, while a few 1‑ and 3‑star comments flag early failures such as broken wheels, zipper and lock issues. These recurring defects keep the brand from a higher rating, but overall sentiment remains positive.",
+  "praise_themes": [
+    "Smooth 360-degree spinner wheels",
+    "Lightweight yet durable hard case",
+    "Spacious interior storage",
+    "Good value for money",
+    "Sturdy telescopic handle"
+  ],
+  "complaint_themes": [
+    "Wheel breaks or shatters on first use",
+    "Poor customer service and warranty support",
+    "Lock mechanism unreliable or outdated",
+    "Surface scratches after rough handling",
+    "Insufficient data on other complaint areas"
+  ],
+  "aspect_scores": {
+    "wheels": {
+      "score": 5.5,
+      "summary": "Positive feedback highlights smooth 8‑wheel spinner movement (reviews 1, 8, 15) and easy rolling (review 51), but multiple users report wheel breakage on first use (reviews 5, 11, 18, 52)."
+    },
+    "handle": {
+      "score": 6.5,
+      "summary": "Telescopic handles are described as sturdy in several reviews (1, 8, 15), yet one reviewer experienced a broken handle under half load (review 40)."
+    },
+    "zipper": {
+      "score": 7.0,
+      "summary": "Zipper quality is praised as smooth and reliable (reviews 1, 22), though a single complaint notes zipper failure (review 50)."
+    },
+    "material": {
+      "score": 7.5,
+      "summary": "Hard polycarbonate shell is called sturdy and lightweight (reviews 1, 8, 15), polyester duffle is noted as water‑resistant and durable (review 22), with occasional color/finish concerns (review 55)."
+    },
+    "size": {
+      "score": 7.0,
+      "summary": "Most users find the cabin size perfect and spacious (reviews 1, 15, 51, 60), while a few mention the bag being larger than needed (review 39)."
+    },
+    "durability": {
+      "score": 6.5,
+      "summary": "Many reviewers highlight long‑term durability and lightweight strength (reviews 21, 26, 28, 33, 35), yet wheel failures and a broken handle are reported (reviews 5, 52, 40)."
+    }
+  },
+  "value_for_money": {
+    "score": 8.2,
+    "price_band": "budget",
+    "verdict": "At the budget price of ₹2301, customers repeatedly cite good value, praising the sturdy build, smooth wheels and spacious interior. Several reviews explicitly say the bag is \"worth every rupee\" or \"amazing quality for the price,\" outweighing the isolated wheel failures. Overall, perceived quality exceeds expectations for this price band.",
+    "avg_price": 2301.0
+  },
+  "insights": [],
+  "errors": []
+}

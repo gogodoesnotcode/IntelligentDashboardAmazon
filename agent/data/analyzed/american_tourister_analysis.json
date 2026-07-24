@@ -1,0 +1,56 @@
+{
+  "brand": "American Tourister",
+  "product_count": 10,
+  "review_count": 55,
+  "sentiment_score": 4.7,
+  "sentiment_label": "mixed",
+  "sentiment_summary": "Customers generally like the build quality, colour and overall look of American Tourister bags, as reflected in three 5‑star reviews. However, there are recurring concerns about inaccurate product dimensions and limited interior volume, noted in two 3‑star reviews. While the positives outweigh the negatives, the brand’s consistency on sizing and capacity remains a pain point.",
+  "praise_themes": [
+    "Smooth, durable wheels",
+    "Lightweight for limited weight",
+    "Spacious interior storage",
+    "Strong build quality",
+    "Good value for money"
+  ],
+  "complaint_themes": [
+    "Flimsy handle mechanism",
+    "Cheap, low-quality plastic",
+    "Color scratches easily",
+    "Difficult return process (limited mentions)",
+    "Missing trolley wheels (single mention)"
+  ],
+  "aspect_scores": {
+    "wheels": {
+      "score": 7.5,
+      "summary": "The majority praise smooth, solid wheels (reviews 9, 14, 24, 29, 30, 40, 46, 47), while a few note missing wheels or poor performance (reviews 4, 11)."
+    },
+    "handle": {
+      "score": 5.5,
+      "summary": "Several reviewers note a flimsy or thin handle (reviews 11, 14, 21, 41), but a few find it comfortable (review 34) and cite strong build (review 53)."
+    },
+    "zipper": {
+      "score": 7.0,
+      "summary": "Most comments are positive, highlighting smooth operation (review 47) and good functionality (review 45), with only isolated complaints about lock quality (review 36)."
+    },
+    "material": {
+      "score": 5.5,
+      "summary": "Opinions vary: positive remarks on thickness and sturdiness (reviews 24, 34) contrast with complaints of cheap, scratch‑prone plastic (reviews 8, 11, 38, 42)."
+    },
+    "size": {
+      "score": 5.5,
+      "summary": "Customers report both accurate spaciousness (reviews 24, 40, 46) and size mismatches or limited volume (reviews 6, 51, 55)."
+    },
+    "durability": {
+      "score": 5.0,
+      "summary": "Mixed feedback: some reviewers praise build quality (e.g., review 53) while others report flimsy material and short lifespan (e.g., reviews 11, 18, 26, 49)."
+    }
+  },
+  "value_for_money": {
+    "score": 7.5,
+    "price_band": "budget",
+    "verdict": "At the ₹3274 average price (budget band), most users feel the luggage offers good value: reviewers repeatedly mention \"worth the price\", \"good quality for the price\" (e.g., reviews 5, 12, 28, 46). Even the negative experiences are often tempered by the low cost, suggesting the overall quality justifies the budget price.",
+    "avg_price": 3274.0
+  },
+  "insights": [],
+  "errors": []
+}

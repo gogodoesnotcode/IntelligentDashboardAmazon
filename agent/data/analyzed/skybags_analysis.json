@@ -1,0 +1,56 @@
+{
+  "brand": "Skybags",
+  "product_count": 10,
+  "review_count": 63,
+  "sentiment_score": 6.2,
+  "sentiment_label": "mixed",
+  "sentiment_summary": "Most Skybags buyers praise the lightweight construction, smooth spinner wheels and overall value for money, with several detailed endorsements of durability and design. However, a handful of low‑star reviews report poor material quality, damaged or used‑looking bags on arrival, and outright brand disappointment, suggesting inconsistent quality control across the product line.",
+  "praise_themes": [
+    "Smooth quiet wheels",
+    "Lightweight for travel",
+    "Spacious interior capacity",
+    "Durable sturdy material",
+    "Value for money"
+  ],
+  "complaint_themes": [
+    "Product arrives damaged or used",
+    "Thin material low durability",
+    "Handle breaks or weak",
+    "Overpriced for size/value",
+    "Poor packaging or unpackaged condition"
+  ],
+  "aspect_scores": {
+    "wheels": {
+      "score": 7.8,
+      "summary": "Several reviewers praised the wheels as smooth and sturdy (e.g., “wheels are smooth and sturdy” – review 2; “wheels are smooth and quiet” – review 42), while a few noted used or less smooth wheels (e.g., “Wheels are all used and layer of dirt” – review 4; “single‑spinner wheels … could have been smoother” – review 46)."
+    },
+    "handle": {
+      "score": 4.2,
+      "summary": "Positive feedback on the handle appears in review 27 (“handle system is very fine & smooth”), but other users reported weakness or breakage (e.g., “handle quality slightly weak” – review 32; “My handle got broken” – review 28)."
+    },
+    "zipper": {
+      "score": 7.5,
+      "summary": "Most comments are favorable, such as “zipper quality is top notch” (review 13) and “zippers feel strong” (review 29), though a few note it could be weaker (review 46) or not ideal (review 14)."
+    },
+    "material": {
+      "score": 6.5,
+      "summary": "Many reviewers highlighted durable polyester or ABS shells (“material is very good”, review 12; “ABS hard shell feels durable”, review 49), yet some complained of thin or torn plastic (“plastic was torn”, review 4; “material is somehow thin” – review 25)."
+    },
+    "size": {
+      "score": 5.5,
+      "summary": "Reviews mention accurate medium dimensions (review 2, 54) and ample capacity for trips (review 18, 27), while a few note the bag being slightly smaller than advertised (review 6) or having less capacity than competitors (review 28)."
+    },
+    "durability": {
+      "score": 6.0,
+      "summary": "Long‑term users report lasting condition (“using for more than 2 years and no issues”, review 33; “still in very good condition after 5 years”, review 30), whereas some experienced early damage (“could not survive the first airline trip”, review 50)."
+    }
+  },
+  "value_for_money": {
+    "score": 8.0,
+    "price_band": "budget",
+    "verdict": "Customers repeatedly describe the bag as good quality and a good deal for its ₹1788 price, with comments like “worth the price” and “great value for the price”. Only occasional remarks about being a bit pricey for the capacity appear, so overall the quality justifies the budget price, yielding a strong value‑for‑money rating.",
+    "avg_price": 1788.0
+  },
+  "insights": [],
+  "errors": []
+}

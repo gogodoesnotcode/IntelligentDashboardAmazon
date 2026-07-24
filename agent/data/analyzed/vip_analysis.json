@@ -1,0 +1,56 @@
+{
+  "brand": "VIP",
+  "product_count": 10,
+  "review_count": 45,
+  "sentiment_score": 7.2,
+  "sentiment_label": "positive",
+  "sentiment_summary": "VIP luggage enjoys strong overall approval, with many customers praising its lightweight design, durability and value for money. However, recurring issues such as a smaller-than-expected interior, a flimsy retractable handle, and occasional packaging problems (broken or used items) temper the enthusiasm. While the majority of feedback is positive, the consistent 3‑star complaints suggest quality control inconsistencies that keep the brand in the lower end of the positive range.",
+  "praise_themes": [
+    "Lightweight yet durable construction",
+    "8 spinner wheels maneuverability",
+    "Hard-shell protection design",
+    "Compact size fits short trips",
+    "Polycarbonate material tough and light"
+  ],
+  "complaint_themes": [
+    "Size smaller than medium bags",
+    "No internal zip pocket for wet items",
+    "Flimsy retractable handle",
+    "Bag feels delicate",
+    "insufficient data on packaging damage"
+  ],
+  "aspect_scores": {
+    "wheels": {
+      "score": 7.8,
+      "summary": "Most reviewers praise the 8 spinner wheels for easy maneuvering, e.g., “8 spinner wheels make maneuvering easy,” though one notes the “tyre quality looks a little wanting,” indicating generally good but not flawless wheels."
+    },
+    "handle": {
+      "score": 3.5,
+      "summary": "Multiple reviewers criticize the retractable handle as flimsy, e.g., “The retractable handle feels flimsy,” and one reports a “broken hand,” showing consistent handle weakness."
+    },
+    "zipper": {
+      "score": 7.5,
+      "summary": "Several reviewers explicitly state the zipper quality is good, e.g., “zip quality is also good,” with no reported failures, indicating reliable zippers."
+    },
+    "material": {
+      "score": 7.2,
+      "summary": "Positive comments highlight the polycarbonate hard‑shell as “tough yet light,” while a reviewer mentions “lamination chut Rahi hai,” suggesting occasional material finish issues."
+    },
+    "size": {
+      "score": 6.0,
+      "summary": "Some users praise the compact dimensions as “perfect size not too big not too small,” while others say the bag is “smaller than Medium sized bags from other brands,” reflecting mixed size satisfaction."
+    },
+    "durability": {
+      "score": 6.2,
+      "summary": "Several reviewers note the bag feels sturdy and reliable after a year of use, e.g., “sturdy, zip quality is also good,” while others describe it as “delicate” and “feels delicate,” indicating mixed durability perception."
+    }
+  },
+  "value_for_money": {
+    "score": 7.2,
+    "price_band": "mid-range",
+    "verdict": "At a mid‑range price of ₹3679, customers repeatedly describe the bag as “very good product,” “value for money,” and “best in quality and cost,” suggesting the overall quality justifies the price despite occasional handle or size complaints.",
+    "avg_price": 3679.0
+  },
+  "insights": [],
+  "errors": []
+}

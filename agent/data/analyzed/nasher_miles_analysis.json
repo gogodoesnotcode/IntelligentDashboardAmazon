@@ -1,0 +1,77 @@
+{
+  "brand": "Nasher Miles",
+  "product_count": 10,
+  "review_count": 68,
+  "sentiment_score": 6.0,
+  "sentiment_label": "mixed",
+  "sentiment_summary": "Buyers like the affordable price, sleek look, smooth wheels and overall value of Nasher Miles luggage, often noting solid build feel. Yet several reviewers report flimsy zippers, loose or missing handles, broken hinges and order mistakes, pointing to inconsistent quality control. The brand therefore earns a mixed sentiment, with satisfaction offset by durability concerns.",
+  "praise_themes": [
+    "Smooth wheels and maneuverability",
+    "Accurate color matching",
+    "Reliable lock mechanism",
+    "Well-organized interior pockets",
+    "Excellent value for price"
+  ],
+  "complaint_themes": [
+    "Lock fails after first use",
+    "Thin material thickness",
+    "Side handle missing vs. picture",
+    "Incorrect quantity shipped",
+    "Flimsy zipper quality"
+  ],
+  "aspect_scores": {
+    "wheels": {
+      "score": 8.5,
+      "summary": "Multiple reviewers praise the wheels as smooth and durable, e.g., “Wheels are smooth” (review 1) and “dual wheels make a huge difference in maneuverability” (review 7)."
+    },
+    "handle": {
+      "score": 7.0,
+      "summary": "Most reviewers find the telescopic handle smooth (“handle operate very smoothly” – review 2), but a few note issues such as a slightly loose handle (review 52) and “Bad quality of … handle” (review 46)."
+    },
+    "zipper": {
+      "score": 6.5,
+      "summary": "Positive comments highlight smooth, top‑notch zippers (review 7, 12), while some note a flimsy zip (review 54) and a bad zip (review 46)."
+    },
+    "material": {
+      "score": 6.5,
+      "summary": "Reviews frequently mention hard, premium‑looking material (review 4, 44), though several say the material could be thicker (review 6, 35)."
+    },
+    "size": {
+      "score": 7.0,
+      "summary": "The 75 cm size is described as perfect for long trips (review 2) and the bag fits cabin dimensions despite being slightly shorter (review 48); no major size complaints appear."
+    },
+    "durability": {
+      "score": 5.5,
+      "summary": "Many users describe the bag as sturdy and robust (review 1, 43), yet several 1‑star reviews report lock failure (review 5) and hinges breaking within weeks (review 53), indicating mixed durability."
+    }
+  },
+  "value_for_money": {
+    "score": 8.0,
+    "price_band": "mid-range",
+    "verdict": "Customers repeatedly say the bag offers excellent quality for the ₹3749 price, calling it a ‘steal deal’ and ‘best buy’, and even compare it favorably to higher‑priced brands, outweighing the few isolated durability complaints.",
+    "avg_price": 3749.0
+  },
+  "insights": [
+    {
+      "headline": "Aristocrat’s wheel fragility undermines its value promise",
+      "explanation": "Aristocrat scores a high value‑for‑money rating of 8.2 and is praised for smooth 360° wheels, yet its wheel aspect score is only 5.5 and reviews flag wheels breaking or shattering on first use. Compared with American Tourister’s higher wheel score (7.5) and fewer wheel failures, the reliability gap is a hidden risk that could erode repeat purchases."
+    },
+    {
+      "headline": "VIP’s premium price hides a weak retractable handle",
+      "explanation": "VIP commands a mid‑range price of ₹3,679 and enjoys strong durability praise, but its handle score is the lowest at 3.5, with multiple complaints about a flimsy retractable handle. This contrast means the premium positioning is compromised by a critical usability flaw that competitors like Skybags (handle 4.2) can exploit."
+    },
+    {
+      "headline": "Safari’s advertised cabin size masks limited interior utility",
+      "explanation": "Safari receives a size score of 7.5 and is lauded for ideal cabin‑size dimensions, yet reviewers repeatedly mention “limited interior utility space.” The mismatch between perceived size and functional capacity is not reflected in its overall sentiment (6.25) and presents an opening for rivals to highlight truly spacious interiors at similar price points."
+    },
+    {
+      "headline": "Nasher Miles’ wheels shine while overall QC falters",
+      "explanation": "Nasher Miles leads with the highest wheel score (8.5) and smooth‑wheel praise, but its reviews also cite lock failures, wrong order quantities, and missing side handles, indicating inconsistent quality control. The strong wheel performance does not compensate for these broader issues, suggesting an opportunity for brands to market holistic reliability rather than isolated strengths."
+    },
+    {
+      "headline": "Skybags’ low price trades off packaging and material quality",
+      "explanation": "Skybags is the cheapest brand (₹1,788) with a solid value‑for‑money score of 8.0, yet complaints highlight damaged or used‑looking bags on arrival and thin material durability. This suggests the low price is achieved by cutting packaging and material standards, a risk that higher‑priced competitors like American Tourister can leverage to attract price‑sensitive shoppers seeking better protection."
+    }
+  ],
+  "errors": []
+}

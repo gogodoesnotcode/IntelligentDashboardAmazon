@@ -1,0 +1,384 @@
+{
+  "generated_at": "2026-07-24T16:40:47",
+  "brands": {
+    "American Tourister": {
+      "brand": "American Tourister",
+      "product_count": 10,
+      "review_count": 55,
+      "sentiment_score": 4.7,
+      "sentiment_label": "mixed",
+      "sentiment_summary": "Customers generally like the build quality, colour and overall look of American Tourister bags, as reflected in three 5‑star reviews. However, there are recurring concerns about inaccurate product dimensions and limited interior volume, noted in two 3‑star reviews. While the positives outweigh the negatives, the brand’s consistency on sizing and capacity remains a pain point.",
+      "praise_themes": [
+        "Smooth, durable wheels",
+        "Lightweight for limited weight",
+        "Spacious interior storage",
+        "Strong build quality",
+        "Good value for money"
+      ],
+      "complaint_themes": [
+        "Flimsy handle mechanism",
+        "Cheap, low-quality plastic",
+        "Color scratches easily",
+        "Difficult return process (limited mentions)",
+        "Missing trolley wheels (single mention)"
+      ],
+      "aspect_scores": {
+        "wheels": {
+          "score": 7.5,
+          "summary": "The majority praise smooth, solid wheels (reviews 9, 14, 24, 29, 30, 40, 46, 47), while a few note missing wheels or poor performance (reviews 4, 11)."
+        },
+        "handle": {
+          "score": 5.5,
+          "summary": "Several reviewers note a flimsy or thin handle (reviews 11, 14, 21, 41), but a few find it comfortable (review 34) and cite strong build (review 53)."
+        },
+        "zipper": {
+          "score": 7.0,
+          "summary": "Most comments are positive, highlighting smooth operation (review 47) and good functionality (review 45), with only isolated complaints about lock quality (review 36)."
+        },
+        "material": {
+          "score": 5.5,
+          "summary": "Opinions vary: positive remarks on thickness and sturdiness (reviews 24, 34) contrast with complaints of cheap, scratch‑prone plastic (reviews 8, 11, 38, 42)."
+        },
+        "size": {
+          "score": 5.5,
+          "summary": "Customers report both accurate spaciousness (reviews 24, 40, 46) and size mismatches or limited volume (reviews 6, 51, 55)."
+        },
+        "durability": {
+          "score": 5.0,
+          "summary": "Mixed feedback: some reviewers praise build quality (e.g., review 53) while others report flimsy material and short lifespan (e.g., reviews 11, 18, 26, 49)."
+        }
+      },
+      "value_for_money": {
+        "score": 7.5,
+        "price_band": "budget",
+        "verdict": "At the ₹3274 average price (budget band), most users feel the luggage offers good value: reviewers repeatedly mention \"worth the price\", \"good quality for the price\" (e.g., reviews 5, 12, 28, 46). Even the negative experiences are often tempered by the low cost, suggesting the overall quality justifies the budget price.",
+        "avg_price": 3274.0
+      },
+      "insights": [],
+      "errors": []
+    },
+    "Aristocrat": {
+      "brand": "Aristocrat",
+      "product_count": 10,
+      "review_count": 72,
+      "sentiment_score": 6.75,
+      "sentiment_label": "mixed",
+      "sentiment_summary": "Aristocrat buyers are largely satisfied, highlighting good quality, spaciousness, and value for money. Positive remarks dominate the 5‑star reviews, while a few 1‑ and 3‑star comments flag early failures such as broken wheels, zipper and lock issues. These recurring defects keep the brand from a higher rating, but overall sentiment remains positive.",
+      "praise_themes": [
+        "Smooth 360-degree spinner wheels",
+        "Lightweight yet durable hard case",
+        "Spacious interior storage",
+        "Good value for money",
+        "Sturdy telescopic handle"
+      ],
+      "complaint_themes": [
+        "Wheel breaks or shatters on first use",
+        "Poor customer service and warranty support",
+        "Lock mechanism unreliable or outdated",
+        "Surface scratches after rough handling",
+        "Insufficient data on other complaint areas"
+      ],
+      "aspect_scores": {
+        "wheels": {
+          "score": 5.5,
+          "summary": "Positive feedback highlights smooth 8‑wheel spinner movement (reviews 1, 8, 15) and easy rolling (review 51), but multiple users report wheel breakage on first use (reviews 5, 11, 18, 52)."
+        },
+        "handle": {
+          "score": 6.5,
+          "summary": "Telescopic handles are described as sturdy in several reviews (1, 8, 15), yet one reviewer experienced a broken handle under half load (review 40)."
+        },
+        "zipper": {
+          "score": 7.0,
+          "summary": "Zipper quality is praised as smooth and reliable (reviews 1, 22), though a single complaint notes zipper failure (review 50)."
+        },
+        "material": {
+          "score": 7.5,
+          "summary": "Hard polycarbonate shell is called sturdy and lightweight (reviews 1, 8, 15), polyester duffle is noted as water‑resistant and durable (review 22), with occasional color/finish concerns (review 55)."
+        },
+        "size": {
+          "score": 7.0,
+          "summary": "Most users find the cabin size perfect and spacious (reviews 1, 15, 51, 60), while a few mention the bag being larger than needed (review 39)."
+        },
+        "durability": {
+          "score": 6.5,
+          "summary": "Many reviewers highlight long‑term durability and lightweight strength (reviews 21, 26, 28, 33, 35), yet wheel failures and a broken handle are reported (reviews 5, 52, 40)."
+        }
+      },
+      "value_for_money": {
+        "score": 8.2,
+        "price_band": "budget",
+        "verdict": "At the budget price of ₹2301, customers repeatedly cite good value, praising the sturdy build, smooth wheels and spacious interior. Several reviews explicitly say the bag is \"worth every rupee\" or \"amazing quality for the price,\" outweighing the isolated wheel failures. Overall, perceived quality exceeds expectations for this price band.",
+        "avg_price": 2301.0
+      },
+      "insights": [],
+      "errors": []
+    },
+    "Nasher Miles": {
+      "brand": "Nasher Miles",
+      "product_count": 10,
+      "review_count": 68,
+      "sentiment_score": 6.0,
+      "sentiment_label": "mixed",
+      "sentiment_summary": "Buyers like the affordable price, sleek look, smooth wheels and overall value of Nasher Miles luggage, often noting solid build feel. Yet several reviewers report flimsy zippers, loose or missing handles, broken hinges and order mistakes, pointing to inconsistent quality control. The brand therefore earns a mixed sentiment, with satisfaction offset by durability concerns.",
+      "praise_themes": [
+        "Smooth wheels and maneuverability",
+        "Accurate color matching",
+        "Reliable lock mechanism",
+        "Well-organized interior pockets",
+        "Excellent value for price"
+      ],
+      "complaint_themes": [
+        "Lock fails after first use",
+        "Thin material thickness",
+        "Side handle missing vs. picture",
+        "Incorrect quantity shipped",
+        "Flimsy zipper quality"
+      ],
+      "aspect_scores": {
+        "wheels": {
+          "score": 8.5,
+          "summary": "Multiple reviewers praise the wheels as smooth and durable, e.g., “Wheels are smooth” (review 1) and “dual wheels make a huge difference in maneuverability” (review 7)."
+        },
+        "handle": {
+          "score": 7.0,
+          "summary": "Most reviewers find the telescopic handle smooth (“handle operate very smoothly” – review 2), but a few note issues such as a slightly loose handle (review 52) and “Bad quality of … handle” (review 46)."
+        },
+        "zipper": {
+          "score": 6.5,
+          "summary": "Positive comments highlight smooth, top‑notch zippers (review 7, 12), while some note a flimsy zip (review 54) and a bad zip (review 46)."
+        },
+        "material": {
+          "score": 6.5,
+          "summary": "Reviews frequently mention hard, premium‑looking material (review 4, 44), though several say the material could be thicker (review 6, 35)."
+        },
+        "size": {
+          "score": 7.0,
+          "summary": "The 75 cm size is described as perfect for long trips (review 2) and the bag fits cabin dimensions despite being slightly shorter (review 48); no major size complaints appear."
+        },
+        "durability": {
+          "score": 5.5,
+          "summary": "Many users describe the bag as sturdy and robust (review 1, 43), yet several 1‑star reviews report lock failure (review 5) and hinges breaking within weeks (review 53), indicating mixed durability."
+        }
+      },
+      "value_for_money": {
+        "score": 8.0,
+        "price_band": "mid-range",
+        "verdict": "Customers repeatedly say the bag offers excellent quality for the ₹3749 price, calling it a ‘steal deal’ and ‘best buy’, and even compare it favorably to higher‑priced brands, outweighing the few isolated durability complaints.",
+        "avg_price": 3749.0
+      },
+      "insights": [
+        {
+          "headline": "Aristocrat’s wheel fragility undermines its value promise",
+          "explanation": "Aristocrat scores a high value‑for‑money rating of 8.2 and is praised for smooth 360° wheels, yet its wheel aspect score is only 5.5 and reviews flag wheels breaking or shattering on first use. Compared with American Tourister’s higher wheel score (7.5) and fewer wheel failures, the reliability gap is a hidden risk that could erode repeat purchases."
+        },
+        {
+          "headline": "VIP’s premium price hides a weak retractable handle",
+          "explanation": "VIP commands a mid‑range price of ₹3,679 and enjoys strong durability praise, but its handle score is the lowest at 3.5, with multiple complaints about a flimsy retractable handle. This contrast means the premium positioning is compromised by a critical usability flaw that competitors like Skybags (handle 4.2) can exploit."
+        },
+        {
+          "headline": "Safari’s advertised cabin size masks limited interior utility",
+          "explanation": "Safari receives a size score of 7.5 and is lauded for ideal cabin‑size dimensions, yet reviewers repeatedly mention “limited interior utility space.” The mismatch between perceived size and functional capacity is not reflected in its overall sentiment (6.25) and presents an opening for rivals to highlight truly spacious interiors at similar price points."
+        },
+        {
+          "headline": "Nasher Miles’ wheels shine while overall QC falters",
+          "explanation": "Nasher Miles leads with the highest wheel score (8.5) and smooth‑wheel praise, but its reviews also cite lock failures, wrong order quantities, and missing side handles, indicating inconsistent quality control. The strong wheel performance does not compensate for these broader issues, suggesting an opportunity for brands to market holistic reliability rather than isolated strengths."
+        },
+        {
+          "headline": "Skybags’ low price trades off packaging and material quality",
+          "explanation": "Skybags is the cheapest brand (₹1,788) with a solid value‑for‑money score of 8.0, yet complaints highlight damaged or used‑looking bags on arrival and thin material durability. This suggests the low price is achieved by cutting packaging and material standards, a risk that higher‑priced competitors like American Tourister can leverage to attract price‑sensitive shoppers seeking better protection."
+        }
+      ],
+      "errors": []
+    },
+    "Safari": {
+      "brand": "Safari",
+      "product_count": 10,
+      "review_count": 78,
+      "sentiment_score": 6.25,
+      "sentiment_label": "mixed",
+      "sentiment_summary": "Safari luggage receives praise for its attractive design, smooth wheels, and good value, but a notable share of reviewers highlight durability concerns such as thin plastic shells, weak joints, lock failures, and a single severe case of breakage with poor customer service. The mix of high‑star praise and recurring mid‑to‑low‑star complaints results in an overall mixed sentiment.",
+      "praise_themes": [
+        "Smooth rolling wheels",
+        "Scratch‑proof exterior",
+        "Ideal cabin‑size dimensions",
+        "Good value for price",
+        "Sturdy, durable construction"
+      ],
+      "complaint_themes": [
+        "Weak telescopic handle",
+        "Lock mechanism problems",
+        "Thin plastic shell durability",
+        "Poor after‑sales service",
+        "Limited interior utility space"
+      ],
+      "aspect_scores": {
+        "wheels": {
+          "score": 8.2,
+          "summary": "Multiple reviewers highlight smooth, buttery wheels that glide effortlessly (e.g., “Wheels are buttery smooth”, “wheels glide smoothly”, “Sturdy wheels”), with no reported wheel failures."
+        },
+        "handle": {
+          "score": 6.5,
+          "summary": "While many praise the handle as comfortable and easy to use (e.g., “drag handle is great”, “handle is comfortable”), a few note poor quality (“Telescopic Handle is of worst quality”, “Handle quality slightly a let down”)."
+        },
+        "zipper": {
+          "score": 7.5,
+          "summary": "Zipper quality is repeatedly described as very good or well‑made (e.g., “zipper quality is very well”, “internal zip adds great utility”), with only cautionary remarks but no actual failures."
+        },
+        "material": {
+          "score": 6.0,
+          "summary": "Reviews are split: many commend the shell as scratch‑proof and sturdy, yet several call the plastic thin and suggest durability concerns (e.g., “thin material”, “plastic fiber shield is very thin”)."
+        },
+        "size": {
+          "score": 7.5,
+          "summary": "The majority find the size ideal for short trips and cabin carry‑on (“perfect middle size”, “size is perfect”), though a few mention slightly less utility space."
+        },
+        "durability": {
+          "score": 6.5,
+          "summary": "Positive durability feedback appears (“nice durability”, “sturdy and well‑built”), countered by isolated reports of breakage within months and weak joint areas."
+        }
+      },
+      "value_for_money": {
+        "score": 8.0,
+        "price_band": "budget",
+        "verdict": "At the ₹2,889 budget price, customers repeatedly describe the luggage as a great deal, noting premium‑like finish, smooth wheels, and solid build. Only a handful of negative experiences (breakage, service issues) are reported, so overall the quality justifies the price.",
+        "avg_price": 2889.0
+      },
+      "insights": [],
+      "errors": []
+    },
+    "Skybags": {
+      "brand": "Skybags",
+      "product_count": 10,
+      "review_count": 63,
+      "sentiment_score": 6.2,
+      "sentiment_label": "mixed",
+      "sentiment_summary": "Most Skybags buyers praise the lightweight construction, smooth spinner wheels and overall value for money, with several detailed endorsements of durability and design. However, a handful of low‑star reviews report poor material quality, damaged or used‑looking bags on arrival, and outright brand disappointment, suggesting inconsistent quality control across the product line.",
+      "praise_themes": [
+        "Smooth quiet wheels",
+        "Lightweight for travel",
+        "Spacious interior capacity",
+        "Durable sturdy material",
+        "Value for money"
+      ],
+      "complaint_themes": [
+        "Product arrives damaged or used",
+        "Thin material low durability",
+        "Handle breaks or weak",
+        "Overpriced for size/value",
+        "Poor packaging or unpackaged condition"
+      ],
+      "aspect_scores": {
+        "wheels": {
+          "score": 7.8,
+          "summary": "Several reviewers praised the wheels as smooth and sturdy (e.g., “wheels are smooth and sturdy” – review 2; “wheels are smooth and quiet” – review 42), while a few noted used or less smooth wheels (e.g., “Wheels are all used and layer of dirt” – review 4; “single‑spinner wheels … could have been smoother” – review 46)."
+        },
+        "handle": {
+          "score": 4.2,
+          "summary": "Positive feedback on the handle appears in review 27 (“handle system is very fine & smooth”), but other users reported weakness or breakage (e.g., “handle quality slightly weak” – review 32; “My handle got broken” – review 28)."
+        },
+        "zipper": {
+          "score": 7.5,
+          "summary": "Most comments are favorable, such as “zipper quality is top notch” (review 13) and “zippers feel strong” (review 29), though a few note it could be weaker (review 46) or not ideal (review 14)."
+        },
+        "material": {
+          "score": 6.5,
+          "summary": "Many reviewers highlighted durable polyester or ABS shells (“material is very good”, review 12; “ABS hard shell feels durable”, review 49), yet some complained of thin or torn plastic (“plastic was torn”, review 4; “material is somehow thin” – review 25)."
+        },
+        "size": {
+          "score": 5.5,
+          "summary": "Reviews mention accurate medium dimensions (review 2, 54) and ample capacity for trips (review 18, 27), while a few note the bag being slightly smaller than advertised (review 6) or having less capacity than competitors (review 28)."
+        },
+        "durability": {
+          "score": 6.0,
+          "summary": "Long‑term users report lasting condition (“using for more than 2 years and no issues”, review 33; “still in very good condition after 5 years”, review 30), whereas some experienced early damage (“could not survive the first airline trip”, review 50)."
+        }
+      },
+      "value_for_money": {
+        "score": 8.0,
+        "price_band": "budget",
+        "verdict": "Customers repeatedly describe the bag as good quality and a good deal for its ₹1788 price, with comments like “worth the price” and “great value for the price”. Only occasional remarks about being a bit pricey for the capacity appear, so overall the quality justifies the budget price, yielding a strong value‑for‑money rating.",
+        "avg_price": 1788.0
+      },
+      "insights": [],
+      "errors": []
+    },
+    "VIP": {
+      "brand": "VIP",
+      "product_count": 10,
+      "review_count": 45,
+      "sentiment_score": 7.2,
+      "sentiment_label": "positive",
+      "sentiment_summary": "VIP luggage enjoys strong overall approval, with many customers praising its lightweight design, durability and value for money. However, recurring issues such as a smaller-than-expected interior, a flimsy retractable handle, and occasional packaging problems (broken or used items) temper the enthusiasm. While the majority of feedback is positive, the consistent 3‑star complaints suggest quality control inconsistencies that keep the brand in the lower end of the positive range.",
+      "praise_themes": [
+        "Lightweight yet durable construction",
+        "8 spinner wheels maneuverability",
+        "Hard-shell protection design",
+        "Compact size fits short trips",
+        "Polycarbonate material tough and light"
+      ],
+      "complaint_themes": [
+        "Size smaller than medium bags",
+        "No internal zip pocket for wet items",
+        "Flimsy retractable handle",
+        "Bag feels delicate",
+        "insufficient data on packaging damage"
+      ],
+      "aspect_scores": {
+        "wheels": {
+          "score": 7.8,
+          "summary": "Most reviewers praise the 8 spinner wheels for easy maneuvering, e.g., “8 spinner wheels make maneuvering easy,” though one notes the “tyre quality looks a little wanting,” indicating generally good but not flawless wheels."
+        },
+        "handle": {
+          "score": 3.5,
+          "summary": "Multiple reviewers criticize the retractable handle as flimsy, e.g., “The retractable handle feels flimsy,” and one reports a “broken hand,” showing consistent handle weakness."
+        },
+        "zipper": {
+          "score": 7.5,
+          "summary": "Several reviewers explicitly state the zipper quality is good, e.g., “zip quality is also good,” with no reported failures, indicating reliable zippers."
+        },
+        "material": {
+          "score": 7.2,
+          "summary": "Positive comments highlight the polycarbonate hard‑shell as “tough yet light,” while a reviewer mentions “lamination chut Rahi hai,” suggesting occasional material finish issues."
+        },
+        "size": {
+          "score": 6.0,
+          "summary": "Some users praise the compact dimensions as “perfect size not too big not too small,” while others say the bag is “smaller than Medium sized bags from other brands,” reflecting mixed size satisfaction."
+        },
+        "durability": {
+          "score": 6.2,
+          "summary": "Several reviewers note the bag feels sturdy and reliable after a year of use, e.g., “sturdy, zip quality is also good,” while others describe it as “delicate” and “feels delicate,” indicating mixed durability perception."
+        }
+      },
+      "value_for_money": {
+        "score": 7.2,
+        "price_band": "mid-range",
+        "verdict": "At a mid‑range price of ₹3679, customers repeatedly describe the bag as “very good product,” “value for money,” and “best in quality and cost,” suggesting the overall quality justifies the price despite occasional handle or size complaints.",
+        "avg_price": 3679.0
+      },
+      "insights": [],
+      "errors": []
+    }
+  },
+  "insights": [
+    {
+      "headline": "Aristocrat’s wheel fragility undermines its value promise",
+      "explanation": "Aristocrat scores a high value‑for‑money rating of 8.2 and is praised for smooth 360° wheels, yet its wheel aspect score is only 5.5 and reviews flag wheels breaking or shattering on first use. Compared with American Tourister’s higher wheel score (7.5) and fewer wheel failures, the reliability gap is a hidden risk that could erode repeat purchases."
+    },
+    {
+      "headline": "VIP’s premium price hides a weak retractable handle",
+      "explanation": "VIP commands a mid‑range price of ₹3,679 and enjoys strong durability praise, but its handle score is the lowest at 3.5, with multiple complaints about a flimsy retractable handle. This contrast means the premium positioning is compromised by a critical usability flaw that competitors like Skybags (handle 4.2) can exploit."
+    },
+    {
+      "headline": "Safari’s advertised cabin size masks limited interior utility",
+      "explanation": "Safari receives a size score of 7.5 and is lauded for ideal cabin‑size dimensions, yet reviewers repeatedly mention “limited interior utility space.” The mismatch between perceived size and functional capacity is not reflected in its overall sentiment (6.25) and presents an opening for rivals to highlight truly spacious interiors at similar price points."
+    },
+    {
+      "headline": "Nasher Miles’ wheels shine while overall QC falters",
+      "explanation": "Nasher Miles leads with the highest wheel score (8.5) and smooth‑wheel praise, but its reviews also cite lock failures, wrong order quantities, and missing side handles, indicating inconsistent quality control. The strong wheel performance does not compensate for these broader issues, suggesting an opportunity for brands to market holistic reliability rather than isolated strengths."
+    },
+    {
+      "headline": "Skybags’ low price trades off packaging and material quality",
+      "explanation": "Skybags is the cheapest brand (₹1,788) with a solid value‑for‑money score of 8.0, yet complaints highlight damaged or used‑looking bags on arrival and thin material durability. This suggests the low price is achieved by cutting packaging and material standards, a risk that higher‑priced competitors like American Tourister can leverage to attract price‑sensitive shoppers seeking better protection."
+    }
+  ]
+}
