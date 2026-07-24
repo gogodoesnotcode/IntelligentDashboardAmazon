@@ -2,5 +2,30 @@ Bestie_ai/
 .venv
 moonshot_ai_agent_intern_assignment.pdf
 Skill Sheet Agents.pdf
-whatToDo.md 
-browser_profile 
+whatToDo.md
+browser_profile
+.gitignore
+agent/.env
+backend/.env
+**/__pycache__/
+**/*.pyc
+.pytest_cache/
+frontend/node_modules
+frontend/dist
+# Local Claude Code skill packages (installed in-repo, not project code)
+/.agents/
+/.claude/
+skills-lock.json
+
+# One-off scraper run logs
+/scraper_run2.log
+/scraper_run_vip.log
+
+# Local Claude Code skill packages (installed in-repo, not project code)
+/.agents/
+/.claude/
+skills-lock.json
+
+# One-off scraper run logs
+/scraper_run2.log
+/scraper_run_vip.log
