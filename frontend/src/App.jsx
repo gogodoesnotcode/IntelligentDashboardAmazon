@@ -2,12 +2,12 @@ import { useEffect, useState } from "react";
 import { fetchSummary } from "./api/client.js";
 import Overview from "./components/Overview.jsx";
 import BrandComparison from "./components/BrandComparison.jsx";
-import ProductDrilldown from "./components/ProductDrilldown.jsx";
+import BrandDrilldown from "./components/BrandDrilldown.jsx";
 
 const SCREENS = [
   { id: "overview", label: "Overview" },
   { id: "comparison", label: "Brand comparison" },
-  { id: "drilldown", label: "Product drilldown" },
+  { id: "drilldown", label: "Brand drilldown" },
 ];
 
 export default function App() {
@@ -22,7 +22,7 @@ export default function App() {
   return (
     <div className="app-shell">
       <header className="app-header">
-        <h1>Moonshot Competitive Intelligence</h1>
+        <h1>BagBoard</h1>
         <nav>
           {SCREENS.map((s) => (
             <button
@@ -46,8 +46,14 @@ export default function App() {
         {!error && !summary && <p className="muted">Loading...</p>}
         {summary && screen === "overview" && <Overview summary={summary} />}
         {summary && screen === "comparison" && <BrandComparison summary={summary} />}
-        {summary && screen === "drilldown" && <ProductDrilldown summary={summary} />}
+        {summary && screen === "drilldown" && <BrandDrilldown summary={summary} />}
       </main>
+
+      <footer className="app-footer">
+        <a href="https://github.com/gogodoesnotcode/BagBoard" target="_blank" rel="noopener noreferrer">
+          BagBoard on GitHub
+        </a>
+      </footer>
     </div>
   );
 }
