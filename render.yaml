@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: moonshot-dashboard
+    env: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    envVars:
+      - key: ENV
+        value: prod
