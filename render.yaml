@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: moonshot-dashboard
+    name: BagBoard
     env: docker
     dockerfilePath: ./Dockerfile
     plan: free
