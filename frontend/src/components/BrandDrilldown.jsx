@@ -1,13 +1,14 @@
 import { useState } from "react";
+import { highlightText } from "../utils/highlight.jsx";
 
-export default function ProductDrilldown({ summary }) {
+export default function BrandDrilldown({ summary }) {
   const brandNames = Object.keys(summary.brands);
   const [selected, setSelected] = useState(brandNames[0]);
   const brand = summary.brands[selected];
 
   return (
     <div className="screen">
-      <h2>Product drilldown</h2>
+      <h2>Brand drilldown</h2>
 
       <div className="row-between">
         <select value={selected} onChange={(e) => setSelected(e.target.value)}>
@@ -21,7 +22,7 @@ export default function ProductDrilldown({ summary }) {
         <div className="card">
           <h3>{brand.brand}</h3>
           <p className="muted">{brand.product_count} products · {brand.review_count} reviews</p>
-          <p>{brand.sentiment_summary || "No sentiment summary available."}</p>
+          <p>{brand.sentiment_summary ? highlightText(brand.sentiment_summary) : "No sentiment summary available."}</p>
 
           <div className="theme-columns">
             <div>
@@ -43,7 +44,7 @@ export default function ProductDrilldown({ summary }) {
           </div>
 
           {brand.value_for_money?.verdict && (
-            <p><strong>Value-for-money verdict:</strong> {brand.value_for_money.verdict}</p>
+            <p><strong className="underline-label">Value-for-money verdict:</strong> {highlightText(brand.value_for_money.verdict)}</p>
           )}
 
           {brand.errors.length > 0 && (

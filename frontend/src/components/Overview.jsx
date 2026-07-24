@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { highlightText } from "../utils/highlight.jsx";
 
 export default function Overview({ summary }) {
   const brandNames = Object.keys(summary.brands);
@@ -18,14 +19,15 @@ export default function Overview({ summary }) {
       <div className="card">
         <h3>Cross-brand insights</h3>
         {summary.insights.length === 0 && <p className="muted">No cross-brand insights available yet.</p>}
-        <ul className="insight-list">
+        <div className="insight-grid">
           {summary.insights.map((ins, i) => (
-            <li key={i}>
-              <strong>{ins.headline}</strong>
-              <p>{ins.explanation}</p>
-            </li>
+            <div className="insight-card" key={i}>
+              <span className="insight-index">{i + 1}</span>
+              <h4>{ins.headline}</h4>
+              <p>{highlightText(ins.explanation, brandNames)}</p>
+            </div>
           ))}
-        </ul>
+        </div>
       </div>
 
       <div className="card">
