@@ -1,4 +1,4 @@
-# Moonshot Competitive Intelligence Dashboard — Backend
+# BagBoard — Backend
 
 FastAPI backend serving the React dashboard, reading analysis JSON written
 by `agent/run_analysis.py`. No LLM calls happen in this layer — that's all

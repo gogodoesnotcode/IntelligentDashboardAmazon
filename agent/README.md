@@ -1,4 +1,4 @@
-# Agent — Sentiment & Competitive Analysis
+# BagBoard — Agent (Sentiment & Competitive Analysis)
 
 A LangGraph pipeline that reads validated product/review CSVs from
 `scraper/raw/` (the single raw-data directory — see `scraper/`) and produces
@@ -29,10 +29,11 @@ see `_has_reviews` in `graph.py`.)
 
 ## Methodology
 
-- **Model**: `ChatGroq` at low temperature (`0.1`–`0.2` for analytical nodes,
-  `0.4` for the cross-brand insights node), configured in `nodes.py`'s
-  `_llm()` factory. All output is schema-constrained via
-  `.with_structured_output()` against the models in `schemas.py`.
+- **Model**: OpenAI's `gpt-oss-120b`, served on Groq via `ChatGroq`, at low
+  temperature (`0.1`–`0.2` for analytical nodes, `0.4` for the cross-brand
+  insights node), configured in `nodes.py`'s `_llm()` factory. All output is
+  schema-constrained via `.with_structured_output()` against the models in
+  `schemas.py`.
 - **Sentiment score** (`sentiment_node`): reviews are batched in groups of 50
   (`_batch_reviews`) to avoid truncation on large review sets; each batch is
   scored independently on a 0–10 scale and the batch scores are averaged.
